@@ -10,6 +10,7 @@ using Android.Graphics;
 
 namespace Tinder
 {
+	//David e bla bla bla
 	[Activity (Label = "Tinder", MainLauncher = true, Icon = "@mipmap/icon", Theme="@style/MyTheme")]
 	public class MainActivity : ActionBarActivity, ViewTreeObserver.IOnScrollChangedListener 
 	{
