@@ -10,7 +10,7 @@ using Android.Graphics;
 
 namespace Tinder
 {
-	//asta e un comentariu1234123123
+	//David primul comentariu
 	//lloll
 	[Activity (Label = "Tinder", MainLauncher = true, Icon = "@mipmap/icon", Theme="@style/MyTheme")]
 	public class MainActivity : ActionBarActivity, ViewTreeObserver.IOnScrollChangedListener 
