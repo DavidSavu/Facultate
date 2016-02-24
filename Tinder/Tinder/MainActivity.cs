@@ -10,7 +10,7 @@ using Android.Graphics;
 
 namespace Tinder
 {
-	//David e bla bla bla
+
 	[Activity (Label = "Tinder", MainLauncher = true, Icon = "@mipmap/icon", Theme="@style/MyTheme")]
 	public class MainActivity : ActionBarActivity, ViewTreeObserver.IOnScrollChangedListener 
 	{
@@ -49,6 +49,8 @@ namespace Tinder
 			viewPager = this.FindViewById<ViewPager>(Resource.Id.pager);
 			viewPager.Adapter = pagerAdapter;
 
+			if (viewPager.CurrentItem == 2) {
+			}
 
 			//aici facem ca bara sa dispara in momentul cand faci scroll
 			//mai intai calculam lungimea ecranului
@@ -56,7 +58,6 @@ namespace Tinder
 			Display display = WindowManager.DefaultDisplay;
 			display.GetSize (size);
 			mScreenSize = size.Y;
-
 
 			mScrollView.ViewTreeObserver.AddOnScrollChangedListener (this);
 		}
@@ -91,5 +92,6 @@ namespace Tinder
 		{
 			mToolbar.SetBackgroundColor(Color.Argb((int)(GetOpacity()*250),50,153,204));
 		}
+			
 	}
 }
