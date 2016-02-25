@@ -12,6 +12,8 @@ namespace Tinder
 {
 	//asta nu e comentariu
 	//cum sa dai abord bleah :))
+	//David primul comentariu
+	//lloll
 	[Activity (Label = "Tinder", MainLauncher = true, Icon = "@mipmap/icon", Theme="@style/MyTheme")]
 	public class MainActivity : ActionBarActivity, ViewTreeObserver.IOnScrollChangedListener 
 	{
