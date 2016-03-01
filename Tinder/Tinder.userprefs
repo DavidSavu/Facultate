@@ -1,16 +1,15 @@
 ﻿<Properties StartupItem="Tinder\Tinder.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tinder\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Tinder\MainActivity.cs" Line="53" Column="4" />
-      <File FileName="Tinder\Resources\DemoPagerAdapter.cs" Line="1" Column="1" />
-      <File FileName="Tinder\Resources\PagerFragment.cs" Line="11" Column="2" />
+      <File FileName="Tinder\MainActivity.cs" Line="21" Column="38" />
+      <File FileName="Tinder\Resources\DemoPagerAdapter.cs" Line="13" Column="4" />
+      <File FileName="Tinder\Resources\PagerFragment.cs" Line="20" Column="4" />
+      <File FileName="Tinder\Properties\AndroidManifest.xml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="C:\David\Proiecte facultate\Facultate\lol\Tinder\Tinder\MainActivity.cs" line="58" column="21" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Tinder AndroidDesignerPreferredDevice="Nexus 4" />
