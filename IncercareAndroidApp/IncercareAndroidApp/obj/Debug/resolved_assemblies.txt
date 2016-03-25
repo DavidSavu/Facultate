@@ -1,0 +1,12 @@
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\IncercareAndroidApp.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\Mono.Android.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\mscorlib.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.Core.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.Xml.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\Xamarin.Insights.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.Net.Http.dll
