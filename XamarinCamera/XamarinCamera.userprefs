@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="XamarinCamera\XamarinCamera.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4790063316e33096" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinCamera\MainActivity.cs">
+    <Files>
+      <File FileName="XamarinCamera\MainActivity.cs" Line="67" Column="76" />
+      <File FileName="XamarinCamera\Properties\AndroidManifest.xml" Line="7" Column="12" />
+      <File FileName="XamarinCamera\Resources\values\Strings.xml" Line="5" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinCamera AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
