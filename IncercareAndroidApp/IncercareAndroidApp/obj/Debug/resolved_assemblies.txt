@@ -1,6 +1,7 @@
 C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\IncercareAndroidApp.dll
 C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\Mono.Android.dll
 C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\mscorlib.dll
+C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\Newtonsoft.Json.dll
 C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.Core.dll
 C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.dll
 C:\David\Proiecte facultate\Facultate\lol\IncercareAndroidApp\IncercareAndroidApp\obj\Debug\assemblies\System.Xml.dll

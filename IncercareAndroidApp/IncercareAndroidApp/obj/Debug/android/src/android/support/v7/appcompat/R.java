@@ -1088,6 +1088,7 @@ containing a value of this type.
         public static int btnBack=0x7f0a0041;
         public static int btnF=0x7f0a003f;
         public static int btnNext=0x7f0a0042;
+        public static int btnRezults=0x7f0a0043;
         public static int checkbox=0x7f0a002d;
         public static int collapseActionView=0x7f0a0010;
         public static int default_activity_button=0x7f0a0028;
@@ -1133,6 +1134,7 @@ containing a value of this type.
         public static int tabMode=0x7f0a0008;
         public static int title=0x7f0a002b;
         public static int top_action_bar=0x7f0a0020;
+        public static int txt1=0x7f0a0044;
         public static int txtQues=0x7f0a003c;
         public static int up=0x7f0a0021;
         public static int useLogo=0x7f0a000e;
@@ -1189,7 +1191,8 @@ containing a value of this type.
         public static int abc_search_view=0x7f040016;
         public static int abc_simple_decor=0x7f040017;
         public static int main=0x7f040018;
-        public static int support_simple_spinner_dropdown_item=0x7f040019;
+        public static int resultslayout=0x7f040019;
+        public static int support_simple_spinner_dropdown_item=0x7f04001a;
     }
     public static final class mipmap {
         public static int icon=0x7f030000;
