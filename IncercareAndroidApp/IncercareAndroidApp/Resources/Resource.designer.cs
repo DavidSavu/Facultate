@@ -865,6 +865,9 @@ namespace IncercareAndroidApp
 			// aapt resource value: 0x7f0a0042
 			public const int btnNext = 2131361858;
 			
+			// aapt resource value: 0x7f0a0043
+			public const int btnRezults = 2131361859;
+			
 			// aapt resource value: 0x7f0a002d
 			public const int checkbox = 2131361837;
 			
@@ -1000,6 +1003,9 @@ namespace IncercareAndroidApp
 			// aapt resource value: 0x7f0a0020
 			public const int top_action_bar = 2131361824;
 			
+			// aapt resource value: 0x7f0a0044
+			public const int txt1 = 2131361860;
+			
 			// aapt resource value: 0x7f0a003c
 			public const int txtQues = 2131361852;
 			
@@ -1117,7 +1123,10 @@ namespace IncercareAndroidApp
 			public const int Main = 2130968600;
 			
 			// aapt resource value: 0x7f040019
-			public const int support_simple_spinner_dropdown_item = 2130968601;
+			public const int ResultsLayout = 2130968601;
+			
+			// aapt resource value: 0x7f04001a
+			public const int support_simple_spinner_dropdown_item = 2130968602;
 			
 			static Layout()
 			{

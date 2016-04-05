@@ -1,8 +1,16 @@
 ﻿<Properties StartupItem="IncercareAndroidApp\IncercareAndroidApp.csproj">
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_23_x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="IncercareAndroidApp\MainActivity.cs">
     <Files>
       <File FileName="IncercareAndroidApp\MainActivity.cs" Line="35" Column="10" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4790063316e33096" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IncercareAndroidApp\ActivityResults.cs">
+    <Files>
+      <File FileName="IncercareAndroidApp\MainActivity.cs" Line="55" Column="80" />
+      <File FileName="IncercareAndroidApp\ActivityResults.cs" Line="13" Column="28" />
+>>>>>>> 5fb28e236621192b0312f3761f306b1548f8e17b
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

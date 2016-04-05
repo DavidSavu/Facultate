@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.incercareandroidapp">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.incercareandroidapp2">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="10" />
   <uses-permission android:name="android.permission.INTERNET" />
@@ -11,12 +11,13 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.incercareandroidapp.mono.MonoRuntimeProvider.__mono_init__" />
+    <activity android:label="ActivityResults" android:name="md5c8d6090390aefd43b023df18190705d4.ActivityResults" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.incercareandroidapp2.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
-        <category android:name="mono.android.intent.category.SEPPUKU.com.companyname.incercareandroidapp" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.companyname.incercareandroidapp2" />
       </intent-filter>
     </receiver>
   </application>

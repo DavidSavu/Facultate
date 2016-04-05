@@ -24,12 +24,14 @@
             android:text="A"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/btnA" />
+            android:id="@+id/btnA"
+            android:padding="20dp" />
         <Button
             android:text="F"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/btnF" />
+            android:id="@+id/btnF"
+            android:padding="20dp" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -42,11 +44,18 @@
             android:text="&lt;"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/btnBack" />
+            android:id="@+id/btnBack"
+            android:padding="20dp" />
         <Button
             android:text="&gt;"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/btnNext" />
+            android:id="@+id/btnNext"
+            android:padding="20dp" />
     </LinearLayout>
+    <Button
+        android:text="NextPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnRezults" />
 </LinearLayout>
